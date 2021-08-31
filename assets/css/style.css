@@ -1,0 +1,15 @@
+.rotate-north {
+    top: 65px;
+    right: .5em;
+  }
+  .ol-touch .rotate-north {
+    top: 80px;
+  }
+
+  h1,h3{
+      text-align: center;
+  }
+
+  .map{
+      height: 80%
+  }
